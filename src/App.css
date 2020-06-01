@@ -1,0 +1,48 @@
+@import '../node_modules/antd/dist/antd.css';
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-header, .App-footer {
+  text-align: center;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+.App-content {
+  text-align: center;
+  padding: 30px;
+  min-height: 500px;
+  font-family: Avenir;
+}
+
+.App-header {
+  background-color: #FFDC00;
+  font-size: x-large;
+  font-family: Avenir;
+
+}
+
+.header-class {
+  color: teal;
+  font-size: xx-large;
+  font-family: Avenir;
+}
+
+.ant-layout-header{ height: 6vh;
+}
+
+.text-color {
+  color: #8f51ff;
+  font-size: xx-large;
+
+}
